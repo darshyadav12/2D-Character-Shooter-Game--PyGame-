@@ -7,6 +7,7 @@ I built this project mainly to understand animations, movement, collision, sound
 
 ## Demo
 
+https://github.com/user-attachments/assets/585145f9-7eaa-4d59-ac2a-186f526709d0
 
 
 
